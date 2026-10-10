@@ -1,0 +1,35 @@
+{
+	"geode": "5.11.1",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "cmds.news-backport",
+	"name": "News Backport",
+	"version": "v1.0.0",
+	"developer": "CMDs",
+	"description": "Backport of 2.209 news",
+	"dependencies": {
+		"prevter.imageplus": ">=v1.1.1"
+	},
+	"resources": {
+		"spritesheets": {
+			"CMDs_newsBackport": [
+				"resources/*.png"
+			]
+		},
+		"files": [
+			"resources/preview/*.png"
+		]
+	},
+	"tags": [
+		"online",
+		"interface",
+		"enhancement"
+	],
+	"links": {
+		"source": "https://github.com/oki333ed/News-Backport"
+	}
+}
